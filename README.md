@@ -12,7 +12,7 @@ I engineered an end-to-end analytical solution to transform this data into a str
 * **Data Integration & Modeling**: Configured a robust Star Schema, establishing a "single source of truth" by linking the central `FactSale` table to key dimension tables (`DimDate`, `DimCity`, `DimCustomer`, `DimStockItem`, `DimEmployee`).
 * **ETL Pipeline**: Built an automated Power Query pipeline to standardize headers, enforce strict data typing for calculation accuracy, and perform proactive data cleansing (handling missing values).
 
-add image here: Data_Integration&Modeling.png
+![Data_Integration&Modeling](Images/Data_Integration&Modeling.png)
 *Overview of the data modeling and the ETL transformation steps.*
 
 ---
@@ -22,17 +22,17 @@ The solution comprises a three-tiered reporting system designed for deep-dive an
 
 ### 1. Sales Performance Report
 Focuses on top-line revenue, volume metrics, and regional performance benchmarks to guide sales strategy.
-add image here: Sales_Report.png
+![ Sales_Report](Images/Project_Overview&Business_Problem.png)
 *Visualizing total sales, volume, and regional performance benchmarks.*
 
 ### 2. Profit & Financial Report
 Bridges the gap between revenue and cost, highlighting profit margins and financial health per product line.
-add image here: Profit_Report.png
+![Profit_Report](Images/Profit_Report.png)
 *Analysis of cost-to-profit correlations for individual stock items.*
 
 ### 3. Details & Distribution Analysis
 Provides granular city-level analytics and examines the impact of buying packages on distribution efficiency.
-add image here: Details.png
+![Details](Images/Details.png)
 *Deep-dive analytics into city-level performance and supply chain trends.*
 
 ---
@@ -44,12 +44,12 @@ The project revealed critical strategic findings that directly support data-driv
 * **Product Efficiency**: Correlated sales volume with COGS to prioritize high-margin stock items.
 * **Logistics Optimization**: Discovered that one specific buying package drives 70.29% of volume, providing a clear target to streamline distribution processes.
 
-add image here: Key_Insights.png
+![Key_Insights](Images/Key_Insights.png)
 *Summary of key findings and actionable business recommendations.*
-
----
 
 ## Technical Skills Demonstrated
 * **Data Engineering**: ETL pipeline design, data cleaning, and relationship management.
 * **Business Intelligence**: Converting enterprise raw data into strategic, actionable dashboards.
 * **Analytical Thinking**: Translating complex financial data into clear business insights.
+
+---
