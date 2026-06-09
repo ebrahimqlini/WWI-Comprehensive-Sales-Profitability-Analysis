@@ -7,6 +7,7 @@ The organization faced a critical challenge: raw, fragmented enterprise data tha
 * **Profitability Blind Spots**: No clear correlation between sales volume and net profit, leading to unidentified cost drivers and margin erosion.
 * **Operational Inefficiency**: Ineffective analysis of inventory and buying packages, complicating supply chain and distribution management.
 ![Project_Overview&Business_Problem](Images/Project_Overview&Business_Problem.png)
+*Project_Overview&Business_Problem*
 
 ## The Solution
 I engineered an end-to-end analytical solution to transform this data into a strategic asset:
