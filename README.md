@@ -6,6 +6,7 @@ The organization faced a critical challenge: raw, fragmented enterprise data tha
 * **Lack of Performance Visibility**: Unable to distinguish between high-performing and underperforming sales regions, hindering strategic resource allocation.
 * **Profitability Blind Spots**: No clear correlation between sales volume and net profit, leading to unidentified cost drivers and margin erosion.
 * **Operational Inefficiency**: Ineffective analysis of inventory and buying packages, complicating supply chain and distribution management.
+![Project_Overview&Business_Problem](Images/Project_Overview&Business_Problem.png)
 
 ## The Solution
 I engineered an end-to-end analytical solution to transform this data into a strategic asset:
@@ -22,7 +23,7 @@ The solution comprises a three-tiered reporting system designed for deep-dive an
 
 ### 1. Sales Performance Report
 Focuses on top-line revenue, volume metrics, and regional performance benchmarks to guide sales strategy.
-![ Sales_Report](Images/Project_Overview&Business_Problem.png)
+![ Sales_Report](Images/Sales_Report.png)
 *Visualizing total sales, volume, and regional performance benchmarks.*
 
 ### 2. Profit & Financial Report
